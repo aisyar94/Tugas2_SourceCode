@@ -1,3 +1,7 @@
+/*Nama: Aisyah Safira Rachman*/
+/*NIM: 13020210004*/
+/*Hari/Tanggal: Jumaat/24-03-2003*/
+/*Waktu: 5.55 PM*/
 package tgs12;
 import java.util.Scanner;
 
